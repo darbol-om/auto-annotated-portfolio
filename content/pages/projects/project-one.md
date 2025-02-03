@@ -11,7 +11,7 @@ featuredImage:
   altText: Cinepolis
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/V01-Bingo Oscars-Reminder.jpg
   altText: Project image
 ---
 
