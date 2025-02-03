@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/74626972_10217816177090726_1014285539454484480_n.jpg
-  altText: Project thumbnail image
+  altText: doodles
 media:
   type: ImageBlock
   url: /images/bg3.jpg
