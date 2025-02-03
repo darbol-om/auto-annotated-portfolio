@@ -15,7 +15,7 @@ featuredImage:
   altText: doodles
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/79188578_10218057623246729_7962094760842231808_n.jpg
   altText: Project image
 ---
 
