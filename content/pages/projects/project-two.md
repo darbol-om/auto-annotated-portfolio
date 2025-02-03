@@ -11,7 +11,7 @@ featuredImage:
   altText: Photo series
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/20240318_103237.jpg
   altText: Project image
 ---
 Content
