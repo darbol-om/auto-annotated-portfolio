@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/V01-Cloud-Bingo-Oscars-Opt in-2.png
-  altText: Project thumbnail image
+  altText: Cinepolis
 media:
   type: ImageBlock
   url: /images/bg1.jpg
