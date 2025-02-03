@@ -4,7 +4,7 @@ title: Web design
 colors: colors-a
 date: '2021-10-15'
 client: ''
-description: ''
+description: Construction in digitality. Web design using css/js/html for various clients
 featuredImage:
   type: ImageBlock
   url: /images/V01-Cloud-Bingo-Oscars-Opt in-2.png
